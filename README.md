@@ -20,7 +20,7 @@ A dynamic, interactive sales dashboard for a Super Store that enables detailed a
 
 ---
 
-## 🧩 Introduction
+##  Introduction
 
 The **Super Store Sales Dashboard** is a business intelligence tool that helps monitor and analyze the performance of a retail chain across different regions, customer types, and product categories. It offers insights into shipping preferences, transaction distribution, sales quantity trends, and top-performing cities.
 
