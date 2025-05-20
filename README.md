@@ -28,7 +28,7 @@ This dashboard was built to demonstrate real-world data visualization and dashbo
 
 ---
 
-## 📈 Key Metrics
+  ## 📈  Key Metrics
 
 - **Total Sales**: ₹58,20,182
 - **Average Sales Value**: ₹582.37
