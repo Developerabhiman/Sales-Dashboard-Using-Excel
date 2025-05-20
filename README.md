@@ -20,7 +20,7 @@ A dynamic, interactive sales dashboard for a Super Store that enables detailed a
 
 ---
 
-##  Introduction
+## Introduction
 
 The **Super Store Sales Dashboard** is a business intelligence tool that helps monitor and analyze the performance of a retail chain across different regions, customer types, and product categories. It offers insights into shipping preferences, transaction distribution, sales quantity trends, and top-performing cities.
 
@@ -28,7 +28,7 @@ This dashboard was built to demonstrate real-world data visualization and dashbo
 
 ---
 
-  ## 📈  Key Metrics
+  ## Key Metrics
 
 - **Total Sales**: ₹58,20,182
 - **Average Sales Value**: ₹582.37
@@ -37,7 +37,7 @@ This dashboard was built to demonstrate real-world data visualization and dashbo
 
 ---
 
-## 🚀 Dashboard Features
+## Dashboard Features
 
 ### 🔹 Ship Mode Sales %
 
@@ -79,25 +79,14 @@ This dashboard was built to demonstrate real-world data visualization and dashbo
 
 ---
 
-## 🧠 Use Cases
+##  Use Cases
 
 - **Executive Reporting**: Share high-level insights with stakeholders.
 - **Trend Analysis**: Monitor sales and quantity patterns across the year.
 - **Regional Targeting**: Focus on regions or categories with low performance.
 - **Customer Segmentation**: Understand which consumer types purchase the most.
 
----
-
-## 📸 Screenshots
-
-Include screenshots of the full dashboard or specific panels like:
-- Ship mode breakdown
-- Monthly trend graph
-- City-wise bar chart
-
----
-
-## 🛠 Tools Used
+## Tools Used
 
 - **Microsoft Excel / Power BI / Tableau** *(choose based on your actual tool)*
 - **Data Cleaning & Aggregation**: Excel/Power Query/Python (optional)
@@ -105,7 +94,7 @@ Include screenshots of the full dashboard or specific panels like:
 
 ---
 
-## ⚙️ Installation (If shared as a file)
+## Installation (If shared as a file)
 
 1. Download the `.pbix` or `.twbx` file.
 2. Open with [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/) / Tableau.
@@ -113,7 +102,7 @@ Include screenshots of the full dashboard or specific panels like:
 
 ---
 
-## 🌐 Portfolio Links
+## Portfolio Links
 
 **Full Stack Developer Portfolio**  
 [![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abhimanpratapsingh.netlify.app/)
@@ -126,7 +115,7 @@ Include screenshots of the full dashboard or specific panels like:
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - **Kaggle / Superstore Dataset** – for the raw data.
 - **Power BI / Tableau community** – for visual inspiration.
@@ -134,7 +123,7 @@ Include screenshots of the full dashboard or specific panels like:
 
 ---
 
-## 📩 Contact
+## Contact
 
 **Abhiman Pratap Singh**  
 📧 abhimanpratap340@gmail.com
