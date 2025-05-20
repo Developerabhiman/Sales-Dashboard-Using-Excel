@@ -2,8 +2,7 @@
 
 A dynamic, interactive sales dashboard for a Super Store that enables detailed analysis of regional performance, shipping methods, consumer behavior, and sales distribution across cities, months, and categories.
 
-![Sales Dashboard Screenshot](./)
-
+![WhatsApp Image 2025-05-20 at 09 12 45_41669ab6](https://github.com/user-attachments/assets/3df4d467-8115-4568-981c-86c9fff522dd)
 
 ---
 
